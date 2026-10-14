@@ -1,0 +1,3 @@
+# Ambiente validado: Python 3.12.
+--only-binary=pygame
+pygame==2.6.1
